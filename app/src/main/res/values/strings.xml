@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+    <string name="x_acceleration">Eje X</string>
+    <string name="x_acceleration_description">aceleración linear en el eje X</string>
+
+    <string name="y_acceleration">Eje Y</string>
+    <string name="y_acceleration_description">aceleración linear en el eje Y</string>
+
+    <string name="z_acceleration">Eje Z</string>
+    <string name="z_acceleration_description">aceleración linear en el eje Z</string>
+</resources>
