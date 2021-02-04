@@ -8,4 +8,5 @@
 
     <string name="z_acceleration">Eje Z</string>
     <string name="z_acceleration_description">aceleración linear en el eje Z</string>
+    <string name="monitoring">Monitorear</string>
 </resources>
