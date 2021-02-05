@@ -51,7 +51,7 @@ class RealTimeChart(
             setDrawValues(false)
             setDrawCircles(false)
             mode = LineDataSet.Mode.CUBIC_BEZIER
-            cubicIntensity = 0.2f
+            cubicIntensity = 0.3f
         }
     }
 

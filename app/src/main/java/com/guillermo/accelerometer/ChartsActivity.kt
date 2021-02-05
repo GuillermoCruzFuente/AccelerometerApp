@@ -50,7 +50,7 @@ class ChartsActivity : AppCompatActivity(), SensorEventListener{
             while (true) {
                 plotData = true
                 try {
-                    Thread.sleep(50)
+                    Thread.sleep(60)
                 } catch (e: InterruptedException) {
                     e.printStackTrace()
                 }
